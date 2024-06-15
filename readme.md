@@ -20,7 +20,8 @@
 </ul>
 <hr>
 <h2>Modelo da classe Client</h2>
-<p>colocar imagem aqui</p>
+![image](https://github.com/avbds002/avbds002-desafio-crud-clientes-nelio-alves/assets/169944734/8fc5add7-df47-4218-a5ca-4b1603228da1)
+
 <hr>
 <h2>Testes manuais no POSTMAN</h2>
 <p style="background-color: red; border-radius:5px; padding: 5px; color: black; font-weight: 600">Busca de cliente por id</p>
